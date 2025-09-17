@@ -1,0 +1,6 @@
+{
+  "semantic_hint": {
+    "description": "Template used when semantic boosts are requested via OpenAI embeddings.",
+    "prompt": "Given the job description context, highlight phrases that support the listed attribute."
+  }
+}
